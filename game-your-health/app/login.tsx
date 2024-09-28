@@ -17,7 +17,9 @@ export default function () {
       />
       <ThemedView style={styles.container}>
         <Image source={require('@/assets/images/sign_in_image.png')} style={styles.signInImage} />
-        <ThemedText>Hello Login Page!</ThemedText>
+        <View>
+
+        </View>
         <Image source={require('@/assets/images/login_form_bg.png')} style={styles.image} />
       </ThemedView>
     </>
