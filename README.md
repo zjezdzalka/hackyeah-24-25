@@ -17,5 +17,5 @@ project (in Polish) for the topics:
 - Maja K.
 
 ## Technologies:
-- VSCode
-- VSCode Live Share plugin: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+- JetBrains WS
+- JetBrains CodeWithMe (installed)
