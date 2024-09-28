@@ -20,7 +20,7 @@ These could include group fitness challenges, mindfulness sessions, or wellness
 competitions that promote accountability, social engagement, and healthy habits through
 teamwork.
 
-// lower chance
+### // lower chance most likely not
 
 ## Subtopic 3: Personalized Wellness Journeys:
 Create a tool that helps users design a personalized wellness plan tailored to their
@@ -28,7 +28,7 @@ unique needs and goals. This could involve fitness routines, mental health pract
 healthy eating habits, all integrated into a single platform that tracks progress and
 adjusts to the user’s evolving lifestyle.
 
-// ??
+### // ?? most likely not
 
 ## Subtopic 4: Integrating Technology for Wellness:
 Explore how emerging technologies such as AI, wearables, or IoT devices can improve
@@ -49,6 +49,7 @@ improvement.
 ## Technologies:
 - JetBrains WS
 - JetBrains CodeWithMe (installed)
+- Figma (*done*)
 
 ## Skills:
 - MZ - webówka
@@ -58,3 +59,17 @@ improvement.
 - JS - webówka
 - PP - full-stack
 
+> Short desc:
+
+MotiVenture helps users improve physical and mental health through goal-setting, gamification, local events, and an AI chatbot.
+
+> Long desc:
+
+MotiVenture is a project with the objective of improving the health of society by encouraging users to achieve their goals, enhance their physical and mental health, and reinforce beneficial habits through the use of gamification and the facilitation of access to progress using the app. The app will offer a variety of features designed to facilitate healthy habits and lifestyle choices. These include a list of tasks (habits) to complete, a local events board, a motivational AI chatbot, and a mood tracker. Incorporating elements from computer games is intended to enhance the appeal of these tools for users.
+
+
+Miro: https://miro.com/app/board/uXjVLZCNT74=/
+
+Figma: https://www.figma.com/design/VxSidvIB5eAh4IOyOhhQ9I/HY24?node-id=0-1&node-type=canvas&m=dev
+
+### Draft status: complete
