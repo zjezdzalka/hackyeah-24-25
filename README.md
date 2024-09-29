@@ -59,17 +59,17 @@ improvement.
 - JS - webówka
 - PP - full-stack
 
-> Short desc:
+## Short desc:
 
 MotiVenture helps users improve physical and mental health through goal-setting, gamification, local events, and an AI chatbot.
 
-> Long desc:
+## Long desc:
 
 MotiVenture is a project with the objective of improving the health of society by encouraging users to achieve their goals, enhance their physical and mental health, and reinforce beneficial habits through the use of gamification and the facilitation of access to progress using the app. The app will offer a variety of features designed to facilitate healthy habits and lifestyle choices. These include a list of tasks (habits) to complete, a local events board, a motivational AI chatbot, and a mood tracker. Incorporating elements from computer games is intended to enhance the appeal of these tools for users.
 
 
-Miro: https://miro.com/app/board/uXjVLZCNT74=/
+Miro: [https://miro.com/app/board/uXjVLZCNT74=/](https://miro.com/app/board/uXjVLZCNT74=/?share_link_id=861366638618)
 
-Figma: https://www.figma.com/design/VxSidvIB5eAh4IOyOhhQ9I/HY24?node-id=0-1&node-type=canvas&m=dev
+Figma: [https://www.figma.com/design/VxSidvIB5eAh4IOyOhhQ9I/HY24?node-id=0-1&node-type=canvas&m=dev](https://www.figma.com/design/VxSidvIB5eAh4IOyOhhQ9I/HY24?node-id=27-114&t=oqAYL4D3GnlDb7ok-1)
 
 ### Draft status: complete
