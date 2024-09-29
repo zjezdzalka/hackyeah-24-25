@@ -17,7 +17,7 @@ export default function AIChatButton() {
             }
           ]
       }
-      onPress={() => router.push('/(tabs)/ai-chat' as Href)}
+      onPress={() => router.push('/ai-chat' as Href)}
     >
       {
         ({ pressed }) => (
@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     width: 55,
     height: 55,
     position: 'absolute',
-    bottom: 80,
+    bottom: 20,
     right: 30,
     borderRadius: 50,
     borderCurve: 'continuous',

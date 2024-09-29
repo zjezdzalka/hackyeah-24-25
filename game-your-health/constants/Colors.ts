@@ -34,6 +34,8 @@ export const Colors = {
     }
   },
   colors: {
-    lightGray: '#908B8B'
+    lightGray: '#908B8B',
+    myMessage: '#8985F2',
+    botMessage: '#E9E6F4'
   }
 };
